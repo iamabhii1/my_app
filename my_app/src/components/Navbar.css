@@ -1,0 +1,38 @@
+.navbody
+{
+    background-color: #191D28;
+    padding:20px 30px 0px;
+}
+.nav-item1{
+    margin-left:300px;
+    
+  }
+.nav-item2{
+
+    margin-left:15px;
+}
+.nav-item3{
+    margin-left: 15px;
+}
+.nav-link{
+    border-radius: 12px;
+    background-color: #2E3241;
+    color:#ffffff;
+    font-family: Oswald,sans-serif;
+    font-size: 16px;
+    margin:10px;
+    padding:6px 20px;
+    
+}
+.tbtn
+{
+    border-radius: 12px;
+    margin-left: 5px;
+    height: 40px;
+    width: 200px;
+    margin-right: 5px;
+    background-color: #3dc6c1;
+    color: white;
+    font-family: Oswald,sans-serif;
+    font-size: 14px;
+}
